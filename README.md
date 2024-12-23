@@ -20,58 +20,35 @@
 
 ---
 
-<h2 align="left" style="color:#FFA500;">🌐 Connect with Me</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/suraj-jaiswar-7007251b6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h2 align="left" style="color:#6A5ACD;">🛠️ Tools & Technologies</h2>
-<h4 style="color:#00FA9A;">Languages:</h4>
-<p>
+<h2 align="center" style="color:#FF4500;">🛠️ Tools and Tech Stuff</h2>
+<div align="center" style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; background-color: #1e1e2f; color: white;">
+  <h3>Languages:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-</p>
 
-<h4 style="color:#7FFFD4;">Frameworks:</h4>
-<p>
+  <h3>Frameworks:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-</p>
 
-<h4 style="color:#FFD700;">Mobile Development:</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-</p>
-
-<h4 style="color:#FF6347;">Hacking Tools:</h4>
-<p>
+  <h3>Hacking Tools:</h3>
   <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="40" height="40" />
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burp_Suite_Logo.svg/1200px-Burp_Suite_Logo.svg.png" alt="Burp Suite" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kali_Linux_2.0_wordmark.svg/1200px-Kali_Linux_2.0_wordmark.svg.png" alt="Kali Linux" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" height="40" />
-</p>
+  <img src="https://www.metasploit.com/sites/default/files/metasploit-blue-icon.png" alt="Metasploit" width="40" height="40" />
 
-<h4 style="color:#32CD32;">DevOps & Tools:</h4>
-<p>
+  <h3>DevOps & Tools:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
-</p>
 
-<h4 style="color:#4682B4;">Operating Systems:</h4>
-<p>
+  <h3>Operating Systems:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Parrot_OS_Logo.svg/1024px-Parrot_OS_Logo.svg.png" alt="Parrot OS" width="40" height="40" />
-</p>
+</div>
 
 ---
 
-<h2 align="left" style="color:#FF4500;">📊 GitHub Stats</h2>
+<h2 align="center" style="color:#FF6347;">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surajjaiswar2003&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajjaiswar2003&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
