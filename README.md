@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Suraj Jaiswar</h1>
-<h3 align="center">
-Here’s the description in a concise pointwise format:
+### 👨‍💻 I'm Suraj Jaiswar – Developer & Cybersecurity Enthusiast
 
-👨‍💻 Suraj Jaiswar – Developer & Cybersecurity Enthusiast
-Software Development: Proficient in Java, Python, JavaScript, React, and Node.js
-Cybersecurity: Skilled in Vulnerability Assessment, Penetration Testing (VAPT), OSINT
-Security Automation: Expertise in tools like Burp Suite, Wireshark, and Docker
-🚀 Certifications: C|EH v12, SecOps, CAP, Palo Alto Network Security Fundamentals
-🔐 Passionate about building innovative, secure systems and exploring advanced cybersecurity techniques for a safer digital future.</h3>
+- **Software Development**: Proficient in Java, Python, JavaScript, React, and Node.js  
+- **Cybersecurity**: Skilled in Vulnerability Assessment, Penetration Testing (VAPT), OSINT  
+- **Security Automation**: Expertise in Burp Suite, Wireshark, Docker  
+- 🚀 **Certifications**: C|EH v12, SecOps, CAP, Palo Alto Network Security Fundamentals  
+- 🔐 Passionate about creating secure systems and exploring advanced cybersecurity techniques to build a safer digital future.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjaiswar2003&label=Profile%20views&color=0e75b6&style=flat" alt="surajjaiswar2003" /> </p>
 
