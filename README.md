@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suraj Jaiswar</h1>
-<h3 align="center">👨‍💻 I am Suraj Jaiswar, a developer and cybersecurity enthusiast dedicated to creating innovative and secure solutions. My dual expertise allows me to bridge the gap between development and security, ensuring robust and scalable digital systems. 💡 My focus areas include: Software Development: Proficient in Java, Python, and JavaScript, with hands-on experience in frameworks like React, Next.js, and Node.js. Cybersecurity: Skilled in Vulnerability Assessment, Penetration Testing (VAPT), and OSINT, with a keen eye for identifying and mitigating system vulnerabilities. Security Automation: Leveraging tools like Burp Suite, Wireshark, and Docker to automate and enhance security protocols. 🚀 With certifications in C|EH v12, SecOps, CAP, and Palo Alto Network Security Fundamentals, I blend technical expertise with a deep understanding of cybersecurity principles to deliver secure and efficient solutions. 🔐 I’m passionate about exploring advanced cybersecurity techniques while developing applications that prioritize performance and security. My work reflects a commitment to innovation, collaboration, and building a safer digital future.</h3>
+<h3 align="center">
+Here’s the description in a concise pointwise format:
+
+👨‍💻 Suraj Jaiswar – Developer & Cybersecurity Enthusiast
+Software Development: Proficient in Java, Python, JavaScript, React, and Node.js
+Cybersecurity: Skilled in Vulnerability Assessment, Penetration Testing (VAPT), OSINT
+Security Automation: Expertise in tools like Burp Suite, Wireshark, and Docker
+🚀 Certifications: C|EH v12, SecOps, CAP, Palo Alto Network Security Fundamentals
+🔐 Passionate about building innovative, secure systems and exploring advanced cybersecurity techniques for a safer digital future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjaiswar2003&label=Profile%20views&color=0e75b6&style=flat" alt="surajjaiswar2003" /> </p>
 
