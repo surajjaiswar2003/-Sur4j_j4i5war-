@@ -7,15 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **BillingBoss**
-- 🌱 I’m currently learning **ReactJs, NodeJs**
-- 📫 How to reach me: **jaiswarsuraj2003@gmail.com**
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/185Au2fwbM-PWHOK6gBhY7cdvi3eMBCOw/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suraj-jaiswar-7007251b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-jaiswar-7007251b6" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
