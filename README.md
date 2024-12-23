@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Jaiswar</h1>
-### 👨‍💻 I'm Suraj Jaiswar – Developer & Cybersecurity Enthusiast
+     👨‍💻 I'm Suraj Jaiswar – Developer & Cybersecurity Enthusiast
 
 - **Software Development**: Proficient in Java, Python, JavaScript, React, and Node.js  
 - **Cybersecurity**: Skilled in Vulnerability Assessment, Penetration Testing (VAPT), OSINT  
